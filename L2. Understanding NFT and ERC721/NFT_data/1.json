@@ -1,0 +1,24 @@
+{
+    "name": "Asahikito NFT",
+    "description": "Asahikito: El Oso Judoka”: Asahikito, el oso pardo, es un apasionado practicante de judo y la mascota oficial del prestigioso club Asahi Kan. Acompáñalo en sus aventuras mientras entrena duro, comparte risas con sus compañeros y vive la verdadera esencia del judo y el jiu-jitsu.",
+    "image": "https://github.com/salvadorjesus/teaching-crypto-sandbox/tree/master/L2.%20Understanding%20NFT%20and%20ERC721/NFT_data/1.jpg",
+    "external_url": "https://www.salvadorjesus.com/",
+    "attributes": [
+        {
+            "trait_type": "Actividad",
+            "value": "Entrenamiento"
+        },
+        {
+            "trait_type": "Cinturón",
+            "value": "Verde"
+        },
+        {
+            "trait_type": "En el tatami",
+            "value": "Sí"
+        },
+        {
+            "trait_type": "Collection",
+            "value": "Genesis"
+        }
+    ]
+}
