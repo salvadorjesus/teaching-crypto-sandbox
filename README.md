@@ -1,11 +1,11 @@
 # Teaching Crypto Sandbox
 **Miscellaneous resources for private crypto lessons.**
 
-I am teaching blockchain to a law firm with a tech affinity. I am using this repo to upload public resources, a little bit of solidity code and some exercises.
+I am teaching blockchain in a law firm with a tech affinity. I am using this repo to upload public resources, a little bit of solidity code and some exercises.
 
 ### Lesson 0: The basics
-* Blockchain as a decentralized database, nodes, security, when to use
-* Wallets, networks, exchanges
+* Blockchain as a decentralized database, nodes, security, when to use.
+* Wallets, networks, exchanges.
 * Smart contracts.
 
 #### Activities
