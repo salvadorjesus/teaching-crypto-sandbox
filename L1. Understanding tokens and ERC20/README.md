@@ -15,7 +15,7 @@ This is the Etherscan link: [Contract Address 0x8582c90cbf425c235c8dd04019bdf047
  5. Using your **first account**, follow the Etherscan code interface to mint 500 ALV.
 	 1. Did it mint 500 ALV or a fraction? Why?
 	 2. Burn the ALV amount that you have just minted.
-	 3. Burn 500 ALV.
+	 3. Mint 500 ALV.
  7.  Using your **second** account and using the Etherscan contract interface, try to mint 500 ALV.
 	 1. That shouldn't work. Why?
 	 2. Send me half of your ALV using the Etherscan contract interface.
